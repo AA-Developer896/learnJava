@@ -61,7 +61,7 @@ public class ImplSingleLL {
         linkedList.printLL();
 
        System.out.print("Piru");
-
+       System.out.print("Piru");
 
     }
 }
