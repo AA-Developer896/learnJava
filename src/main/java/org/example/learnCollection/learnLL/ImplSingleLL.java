@@ -59,7 +59,8 @@ public class ImplSingleLL {
        linkedList.printLL();
        linkedList.removeLastNode();
         linkedList.printLL();
-        System.out.print("Abhi");
+
+       System.out.print("Piru");
 
 
     }
